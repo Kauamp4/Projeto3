@@ -8,9 +8,9 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
-    color: var(--branco-principal);
-    font-family: var(--fonte-principal);
+    background-color: var(--palmeiras-sem-mundial);
+    color: var(--palmeiras-0);
+    font-family: var(--sem-mundial);
     font-size: 16px;
     font-weight: 400;
 }
@@ -24,8 +24,8 @@ body {
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-    align-items: center;
-    text-align: center;
+    align-items: left;
+    text-align: left;
 }
 
 .container {
@@ -35,16 +35,16 @@ body {
 }
 
 .container__botao {
-    background-color: var(--botao-azul);
+    background-color: var(--boca-azul);
     border-radius: 5px;
     padding: 1em;
-    color: var(--branco-principal);
+    color: var(--penis-principal);
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
 }
 
-.botao_secundario {
+.penis_secundario {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
@@ -67,7 +67,7 @@ body {
     margin: 0 6em;
 }
 
-.secundario__imagem {
+.foto__da__bunda__imagem {
     width: 80%;
 }
 
